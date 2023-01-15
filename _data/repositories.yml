@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jdeaton
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - jondeaton/BraTS18-Project
+  - jondeaton/AgarLE
+  - jondeaton/Lisp
+  - jondeaton/AgarAI
+  - jondeaton/PhaMers
+  - jondeaton/Heat-Stroke-Prediction
