@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Jonathan Deaton # the website title (if blank, full name will be used instead)
 first_name: Jonathan
 middle_name:
 last_name: Deaton
@@ -19,7 +19,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: /assets/img/  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://jondeaton.github.io
-baseurl: /site # the subpath of your site, e.g. /blog/
+baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -115,7 +115,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Jon Deaton's Blog # blog_name will be displayed in your blog page
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Coming soon.
+blog_description: My adventures in computing
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -146,8 +146,10 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+  # - name: medium.com
+  #   rss_url: https://medium.com/@al-folio/feed
+  - name: wordpress.com
+    rss_url: https://jondeaton.wordpress.com/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -249,8 +251,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Deaton]
+  first_name: [Jonathan, P.]
 
   style: apa
   locale: en
