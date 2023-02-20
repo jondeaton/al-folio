@@ -16,12 +16,12 @@ selected_papers: true
 social: true
 ---
 
-I'm a senior software engineer and machine learning researcher at X
-broadly interested in applied probabilistic ML.
+I'm a senior software engineer and machine learning researcher at X broadly
+interested in probabilistic ML.
 
-I believe building robust ML systems requires strong theoretical foundations
-in statistics and probabilistic reasoning. I enjoy translating cutting-edge
-ML methods into practical applications.
+I believe robust ML systems require theoretical foundations in probabilistic
+reasoning and statistics. I enjoy translating cutting-edge ML methods into
+practical applications.
 
 My current interests include Equivariant Euclidian GNNs for molecular modeling,
 generative language models in biology, and diffusion/score-based generative
