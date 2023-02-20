@@ -36,12 +36,17 @@
       institution: Google X, Mountain View, California
       year: 2021 - Present
       description:
-        - Applied ML research in computational biology.
-        - Designed and built distributed Large Language Model training system in
-          JAX. Enabled use of T5 architecture with T5X, 5x increase in training
-          throughput, superior data-scaling and ML algorithm expressiveness.
-        - Introduced decoder-only generative language model and fine-tuning
-          algorithm for active-learning molecular design.
+        - Research in applied ML for computational biology / molecular design.
+        - Designed and built Large Language Model distributed training system in
+          JAX. Enabled <a href="https://arxiv.org/abs/1910.10683">T5
+          architectures </a> via <a
+          href="https://github.com/google-research/t5x">T5X</a>, up to 5x
+          training throughput, superior ML algorithm expressiveness and
+          data-scaling.
+        - Delivered ML model/method significantly outperforming existing methods
+          in molecular design.
+        - Introduced decoder-only generative LLM and fine-tuning algorithm for
+          active-learning molecular design.
         - Tested Equivariant euclidian graph neural networks (EGNNs) for
           structural molecular modeling and biomolecule design.
         - Hosted AI resident <a href="https://francesding.github.io/">Frances
@@ -50,18 +55,17 @@
       institution: Google Health / Research
       year: 2019 - 2021
       description:
-        - Productionized ML computer-vision dermatological-condition
+        - Productionized ML computer-vision dermatological condition
           classification system, gaining regulatory approval as CE marked Class
           I medical device in the EU
-        - Solved technical modeling hurdles
         - Lead development of software systems for evaluation and validation of
-          ML models
-        - Wrangled difficult medical datasets
+          ML models.
+        - Wrangled difficult medical datasets and solved technical modeling hurdles.
         - Designed and conducted research studies improving and advancing
           understanding of state-of-the-art ML models, publishing research
           findings.
-        - Hosted research intern in project on negative interference in
-          multi-dataset domain generalization
+        - Hosted research intern <a href="https://ckbjimmy.github.io/">Wei-Hung
+          Weng</a> in project on negative interference.
 
     - title: Software Engineering Intern
       institution: Bigstream, Mountain View CA
@@ -78,12 +82,9 @@
     - title: Undergraduate Bioengineering Researcher
       institution: Quake Lab, Stanford University
       year: 2014 - 2017
-
     - title: Research Associate Intern
       institution: Protein Engineering Group, Illumina Inc., San Diego, California
       year: 2016
-
-
 
 - title: Open Source Projects
   type: time_table
@@ -126,6 +127,7 @@
   type: nested_list
   contents:
     - title: Clinical Volunteer
+    - year: 2015 (12 mo.)
       items:
         - I volunteered in a neurology unit at the Stanford Hospital and Clinics
           where I helped nurses and secretaries accomplish tasks throughout the
