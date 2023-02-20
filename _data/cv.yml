@@ -41,10 +41,10 @@
           JAX. Enabled <a href="https://arxiv.org/abs/1910.10683">T5
           architectures </a> via <a
           href="https://github.com/google-research/t5x">T5X</a>, up to 5x
-          training throughput, superior ML algorithm expressiveness and
+          training throughput speedup, superior ML algorithm expressiveness and
           data-scaling.
-        - Delivered ML model/method significantly outperforming existing methods
-          in molecular design.
+        - Delivered model/method that significantly outperformed existing
+          methods in molecular design.
         - Introduced decoder-only generative LLM and fine-tuning algorithm for
           active-learning molecular design.
         - Tested Equivariant euclidian graph neural networks (EGNNs) for
@@ -56,8 +56,8 @@
       year: 2019 - 2021
       description:
         - Productionized ML computer-vision dermatological condition
-          classification system, gaining regulatory approval as CE marked Class
-          I medical device in the EU
+          classification system, gaining regulatory approval as CE-marked Class
+          I medical device.
         - Lead development of software systems for evaluation and validation of
           ML models.
         - Wrangled difficult medical datasets and solved technical modeling hurdles.
