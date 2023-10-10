@@ -1,0 +1,5 @@
+
+Resources for making figures:
+- InkScape
+- TexTect - Inkscape
+
