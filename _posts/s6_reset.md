@@ -182,7 +182,9 @@ Note that this kind of enforcable boundary resetting has already been reported, 
 ["Structured State Space Models for In-Context Reinforcement Learning"](https://arxiv.org/abs/2303.03982)
 See section 3.1 "Resettable S5" in this paper: 
 
-Here we'll be considering how to acheive this 
+Here we'll be considering how to acheive this, we introduce a new variable into the
+associative binary operation whcih has the meaning "is there a reset boundary anywhere
+in this segment".
 
 Care must be taken to retain the associativity of the binary operation when considering 
 how to integrate boupndary resetting. With a naive implementaiton, we'll end up
